@@ -145,8 +145,3 @@ while True:
         print("Valeu entäo")
         break
     print("Bora lá!")
-
-
-
-#if __name__ == '__main__':
-#    hangman()
